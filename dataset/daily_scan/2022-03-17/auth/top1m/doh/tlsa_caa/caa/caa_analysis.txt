@@ -1,0 +1,3 @@
+ip,caa_result
+dns.google,128 issue "pki.goog";0 issue "pki.goog"
+dns.HINET.NET,0 issuewild ";";0 issue "pki.hinet.net"

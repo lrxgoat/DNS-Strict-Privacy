@@ -1,0 +1,4 @@
+ip,caa_result
+dns1.greenshiftnetworks.com,0 issue "letsencrypt.org"
+dns2.greenshiftnetworks.com,0 issue "letsencrypt.org"
+dns.google,0 issue "pki.goog";128 issue "pki.goog"
